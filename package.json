@@ -2,7 +2,7 @@
   "name": "emo-flow",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://arybinski.github.io/emoflow",
+  "homepage": "https://arybinski.github.io/emoflow",
   "dependencies": {
     "@tensorflow/tfjs": "^0.10.3",
     "material-ui": "^0.20.0",
