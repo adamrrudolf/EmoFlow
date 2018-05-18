@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/emoflow/precache-manifest.35b4615f799217365cf0c21fa43f4fef.js"
+  "/emoflow/precache-manifest.4748cb4b6b2c7521be7fa7ffb87441af.js"
 );
 
 workbox.clientsClaim();
